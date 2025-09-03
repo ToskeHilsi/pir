@@ -1,1 +1,10 @@
 # pir
+
+pir will be a 2-player fight-the-horde style game, similar to COD Zombies or Left For Dead.
+
+Planned Features:
+- 2 players, one with WASD to move and F to use whatever they are holding (E to pick up items), and the other Arrow Keys to move and L to use held item (P to pick up items).
+- The twist of the game is that you can only hold 1 item each, and whenever you pick up an item it simply swaps with your held item.
+- Since you can't both aim with one mouse, your direction determines where you are aiming (8 directions, Left Right Up Down and diagonals)
+- Weapons may include:
+  Axe (wide swing but melee), AWP (big range, big single-target damage, but low atk spd), Rifle (good rate of fire, but bad ammo consumption, normal amount of damage), Shotgun (closer range (bullets fade away at a closer distance), mid atk spd, great damage if all bullets are hit), Grenade (single use throwable that explodes after 1 second, big damage but fast zombies can escape its radius), Health pack (can only use on a teammate (pressing the use button near them), heals all damage, single use), Wall (places a wall that blocks off zombies, but the zombies can break it. shooting the wall deals damage to it too)
