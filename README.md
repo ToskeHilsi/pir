@@ -1,6 +1,6 @@
 # pir
 
-pir will be a 2-player fight-the-horde style game, similar to COD Zombies or Left For Dead.
+pir will be a 2-player side-scrolling fight-the-horde style game, similar to COD Zombies or Left For Dead.
 
 Planned Features:
 - 2 players, one with WASD to move and F to use whatever they are holding (E to pick up items), and the other Arrow Keys to move and L to use held item (P to pick up items).
